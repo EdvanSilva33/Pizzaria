@@ -158,10 +158,10 @@ function App() {
       {/* Footer */}
       <footer className="bg-gray-800 text-white py-8 mt-12">
         <div className="container mx-auto px-4 text-center">
-          <h3 className="text-xl font-bold mb-2">Pizzaria Delivery</h3>
+          <h3 className="text-xl font-bold mb-2">Luigi Pizza</h3>
           <p className="text-gray-300 mb-4">Sabor que você pode confiar</p>
           <div className="space-y-1 text-sm text-gray-400">
-            <p>📱 Telefone: (11) 99999-9999</p>
+            <p>📱 Telefone: (61) 99999-9999</p>
             <p>🕒 Horário: 18:00 às 23:00</p>
             <p>🚚 Entrega grátis acima de R$ 50,00</p>
           </div>
