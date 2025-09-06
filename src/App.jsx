@@ -6,6 +6,7 @@ import Cart from './components/cart/Cart';
 import CheckoutForm from './components/checkout/CheckoutForm';
 import { menuData, categories } from './data/menuData';
 import './App.css';
+import logo from './img/logo_luigi.png';
 
 function App() {
   const [activeCategory, setActiveCategory] = useState('pizzas-tradicionais');
@@ -157,8 +158,10 @@ function App() {
 
       {/* Footer */}
       <footer className="bg-gray-800 text-white py-8 mt-12">
-        <div className="container mx-auto px-4 text-center">
-          <h3 className="text-xl font-bold mb-2">Luigi Pizza</h3>
+        <div className="container mx-auto px-4 text-center ">
+          
+            <h3 className="text-xl font-bold mb-2 text-green-300">Luigi Pizza</h3>
+     
           <p className="text-gray-300 mb-4">Sabor que você pode confiar</p>
           <div className="space-y-1 text-sm text-gray-400">
             <p>📱 Telefone: (61) 99999-9999</p>

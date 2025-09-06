@@ -14,7 +14,7 @@ const Header = ({ cartItemsCount, onCartClick }) => {
             </div>
             <div>
               <h1 className="text-lg sm:text-2xl font-bold">Luigi Pizza</h1>
-              <p className="text-100 text-xs sm:text-sm hidden sm:block">
+              <p className="text-100 text-xs sm:text-sm sm:block">
                 O prazer de uma pizza italiana
               </p>
             </div>
